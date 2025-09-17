@@ -1,0 +1,4 @@
+transformers
+torch
+gardio
+PyPDF2
